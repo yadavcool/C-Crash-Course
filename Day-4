@@ -1,0 +1,44 @@
+1>
+/*Goal: use logical and relational operators in a C++ program. 
+**Find all possible outputs for the given expression
+**Hint: there are three inputs, so there are 8 possible input combinations (2^3)
+**Which means there is an output for each combination of inputs.
+**The expression: (A and B and C) or (A and( (not B) or (not C))) = Q
+*/
+
+2>
+The questions: 
+/*Goal: practice if-else statements in C++
+**Write a program to select the best pet. 
+*/
+"Do you want a pet with fur(f), feathers(t), or scales(s)?" 
+"You want a pet with scales. Do you want the pet to live in water(w), on land(l), or both(b)? 
+The pet choices should be: dog, bird, fish, gecko, frog
+
+3>
+Create a program that asks the user for two float numbers. Then asks the user if they would like to:
+
+add the numbers
+subtract the numbers
+multiply the numbers
+divide the numbers
+The program should then print the numbers with the chosen operation and the solution. 
+For example:
+
+The user enters: 4 5 +
+The program will output: 4 + 5 = 9
+
+
+4>
+Write a program that asks a user for five numbers.
+Print out the sum and average of the five numbers.
+
+5>
+/*Goal: In the programming quiz, use a while loop to prompt
+**the user to guess a target number. 
+**Tell the user if the guess is too high or too low. 
+**The user enters -1  or guesses the target number to end 
+**the program.
+*/
+
+You will get the solutions of these ques in the comments of youtube's video.
